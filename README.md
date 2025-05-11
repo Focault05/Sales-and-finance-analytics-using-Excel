@@ -45,11 +45,12 @@
 #### This project equipped me with the industry level business requirements. This kind of analysis and insights can help businesses to monitor, assess and improve their strategies. Data driven analysis in today's times is essential to have a competitive edge in a dynamic environment and this project made me proficient in handling such tasks. After this project, I am confident in using excel to tackle various business problems.
 ### Various excel features used in this project are:-
 1. Pivot tables
-2. Power query
+2. ETL(extract, transform and load) using Power query.
 3. Power pivot
 4. DAX Functions
 5. Conditional formatting
-6. Sales and finance basic metrics like - revenue, budget, profit/loss, gross margin, COGS, growth rate, sales target achievement, Budget variance( difference between budget and actual figures).
+6. Data cleaning and modelling.
+7. Sales and finance basic metrics like - revenue, budget, profit/loss, gross margin, COGS, growth rate, sales target achievement, Budget variance( difference between budget and actual figures).
    
 
 
