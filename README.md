@@ -42,8 +42,8 @@
 4. Market specific profit and loss report: Japan and New Zealand showed the ehighest profit margins, while Germany had the lowest.
 5. Quarterly gross margin % :  Various filters like regionwise, countrywise etc can help business - managers to take action accordingly.
 
-## This project equipped me with the industry level business requirements. 
-## Various excel features used in this project are:-
+#### This project equipped me with the industry level business requirements. This kind of analysis and insights can help businesses to monitor, assess and improve their strategies. Data driven analysis in today's times is essential to have a competitive edge in a dynamic environment and this project made me proficient in handling such tasks. After this project, I am confident in using excel to tackle various business problems.
+### Various excel features used in this project are:-
 1. Pivot tables
 2. Power query
 3. Power pivot
